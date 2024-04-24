@@ -1,0 +1,10 @@
+C:\Users\xiketang\Desktop\xiketang.com.MotionProject\xiketang.com.Models\bin\Debug\xiketang.com.Models.dll
+C:\Users\xiketang\Desktop\xiketang.com.MotionProject\xiketang.com.Models\bin\Debug\xiketang.com.Models.pdb
+C:\Users\xiketang\Desktop\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.dll
+C:\Users\xiketang\Desktop\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.pdb
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\bin\Debug\xiketang.com.Models.dll
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\bin\Debug\xiketang.com.Models.pdb
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.csproj.AssemblyReference.cache
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.csproj.CoreCompileInputs.cache
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.dll
+E:\上位机学习内容\三轴机器人项目\同步课程资料\课程源码\xiketang.com.MotionProject\xiketang.com.Models\obj\Debug\xiketang.com.Models.pdb

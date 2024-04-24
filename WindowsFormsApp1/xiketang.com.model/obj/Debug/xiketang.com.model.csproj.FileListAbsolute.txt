@@ -1,0 +1,7 @@
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\bin\Debug\xiketang.com.model.exe.config
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\bin\Debug\xiketang.com.model.exe
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\bin\Debug\xiketang.com.model.pdb
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\obj\Debug\xiketang.com.model.csproj.AssemblyReference.cache
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\obj\Debug\xiketang.com.model.csproj.CoreCompileInputs.cache
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\obj\Debug\xiketang.com.model.exe
+E:\上位机学习内容\三轴运动控制\WindowsFormsApp1\xiketang.com.model\obj\Debug\xiketang.com.model.pdb
